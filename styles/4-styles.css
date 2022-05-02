@@ -440,7 +440,7 @@ a {
 
 .button {
   border: none;
-  width: 162px;
+  width: 180px;
   padding: 13px 31px;
   border-radius: 22px;
   background-color: var(--color-red);
